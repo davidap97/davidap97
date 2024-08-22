@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @davidap97
 - 👀 I’m interested in quantum optimal control
-- 🌱 I’m currently learning Julia, Java, C++
+- 🌱 I’m currently learning Julia, Fortran, Java, C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :  david.pohl@fu-berlin.de, davidpohl97@outlook.de
 - 😄 Pronouns: (He/Him)
